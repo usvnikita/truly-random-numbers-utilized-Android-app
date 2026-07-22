@@ -26,12 +26,12 @@ I've developed this app while arguing with destiny. Lightnings strike just near 
       <td align="center">
         <img src="priority.gif" alt="Terminal Output 1" width="380"/>
         <br>
-        <i><font color="#808080">Priority randomizer page.</font></i>
+        <i><font color="#808080">GIF(Click) Priority randomizer page.</font></i>
       </td>
       <td align="center">
         <img src="coinflip.gif" alt="Terminal Output 2" width="380"/>
         <br>
-        <i><font color="#808080">Coinflip page (the initial idea).</font></i>
+        <i><font color="#808080">GIF(Click) Coinflip page (the initial idea).</font></i>
       </td>
     </tr>
   </table>
