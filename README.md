@@ -1,6 +1,7 @@
 # truly-random-numbers-utilized-Android-app
 I've developed this app while arguing with destiny. Lightnings strike just near my windows when it started first time, demons almost made me cry again after that. And, of course, hidden AI network spreaded on every smartphone showed itself too. It could hack this exact app easily but the way how the app works could be used on pure hardware. The app's internet access is strictly blocked in the root of the Android Studio code.
 
+- **About THE App:** I'm unable to upload the .zip or .apk because of big file size. Please contact me if somebody is willing to help conduct Play Market beta testing in order for me to post it online. (It takes 14 days and you will only have to have it installed and\or run it once a day)
 - **Complex Math:** The program processes digits into numbers, squeezes them through formiulas generating pure humane output.
 - **True Randomness:** A loud street with many sound sources with naturally many sources of amplitude(sound loudness) generate truly random number at your smartphone's microphone.
 - **Functionality:** All the functionality I was able to figure out was implemented within this app.
